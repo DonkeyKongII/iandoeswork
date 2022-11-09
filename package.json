@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Blog Template using eleventy and terminal css.",
   "scripts": {
-    "build": "eleventy && npm run sass",
+    "build": "eleventy && npx run sass",
     "serve": "concurrently 'eleventy --serve' 'npm run sass:watch'",
     "sass": "sass styles:_site/styles --no-source-map --style=compressed --update",
     "sass:watch": "npm run sass && npm run sass -- --watch",
@@ -14,10 +14,21 @@
   "author": "Arpit Batra (arpitbatra123@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
     "concurrently": "^6.2.2",
-    "sass": "^1.42.1"
+    "sass": "^1.43.4"
+  },
+  "main": ".eleventy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonkeyKongII/iandoeswork.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DonkeyKongII/iandoeswork/issues"
+  },
+  "homepage": "https://github.com/DonkeyKongII/iandoeswork#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
   }
 }

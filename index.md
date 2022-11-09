@@ -1,8 +1,8 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: doin work
 ---
 
-# Welcome to Hollywoo
+# ian does work.
 
-Hello. I am BoJack. Horseman, obviously
+Hello. I'm Ian. I do work. 
