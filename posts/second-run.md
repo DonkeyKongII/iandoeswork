@@ -4,7 +4,7 @@ title: "Bad night, cold day, feeling better."
 tags: ["running"]
 ---
 
-**Running Mileage Total:** 6.33
+*Running Mileage Total:* 6.33
 
 Last night was a bad night. I won't get into why it was bad. Not right now. Someday maybe, though. Just know it was a bad night. Part of it being bad was I didn't get enough sleep. I'm really going for 7.5+ hours. I definitely did not get that last night.
 
