@@ -4,7 +4,7 @@ title: "Crispy air, short run, pulled a hammy?"
 tags: ["running"]
 ---
 
-Running Mileage total: 3.1 Miles
+*Running Mileage Total:* 3.1 Miles
 
 Yesterday's return to glory didn't happen. It happened today instead. Sorta.
 
@@ -15,6 +15,7 @@ Anyway. The air was crisp and cool. A light breeze carried the scent of fresh ra
 You might feel like I'm setting you up for some kind of tragedy. I'm not. The run was fine. It was slow. I was tired. But it was fine. My run started at my house and was a ~1.55 mile out-and-back for a total of 3.1 miles.
 
 - Distance: 3.17 miles
+- Time: 27:05.60
 - Avg Pace: 8'33"
 - Best Mile: 7'46"
 - Avg HR: 159 <-- Yikes need to bring that down
