@@ -16,6 +16,8 @@ Today's run started at a reasonable hour - 7:30 am. Here are the details:
 - Best Mile: 7'56"
 - Avg HR: 157 <-- not great
 
+<br />
+
 The run felt okay. I didn't feel incredibly energized, but I didn't feel terrible, either. After turning into my neighborhood, the end of the run is always hard. At least for now. Coming into the neighborhood, there's a hill and a steep turn. Then it levels off for about a tenth of a mile, and then it's all uphill from there to the end. This should get easier as training goes on. Right now, it isn't hard, per se, but I do have to will myself through it.
 
 I've got to be able to do these runs at a lower heart rate. Maybe tomorrow, I'll try to run a little slower.
