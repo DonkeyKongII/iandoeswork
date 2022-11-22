@@ -20,12 +20,16 @@ I'll now post the run stats for my last four runs.
 - Avg HR: 153 <-- very nice
 - Note: This run was one by my kids' karate studio. Maybe the different location helped.
 
+<br />
+
 *2022-11-18*
 - Distance: 3.16
 - Time: 26:49.14
 - Avg Pace: 8'30"
 - Best Mile: 7'54" 
 - Avg HR: 159 <-- not great
+
+<br />
 
 *2022-11-20*
 - Distance: 5.09
@@ -34,6 +38,8 @@ I'll now post the run stats for my last four runs.
 - Best Mile: 7'43"
 - Avg HR: 157
 - Note: This was after camping all weekend. I did *not* want to do this run.
+
+<br />
 
 *2022-11-21*
 - Distance: 4.04
